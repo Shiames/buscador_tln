@@ -4,6 +4,3 @@ spacy
 pandas
 numpy
 gensim
-
-pip install streamlit scikit-learn spacy pandas numpy gensim
-python -m spacy download es_core_news_sm
